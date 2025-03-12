@@ -1,0 +1,28 @@
+{
+    "type": "module",
+    "name": "lab3-js-frameworks",
+    "version": "1.0.0",
+    "description": "Express App Assignment",
+    "main": "File1.js",
+    "scripts": {
+        "start": "nodemon File1.js",
+        "file2": "nodemon File2.js",
+        "file3": "nodemon File3.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "expressjs",
+        "API",
+        "Makeup",
+        "JavaScript",
+        "Node.js"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.21.2"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.9"
+    }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "MAC Matte Lipstick - Ruby Woo",
+    "brand": "MAC Cosmetics",
+    "price": 31,
+    "description": "A bold and iconic matte red lipstick with a long-lasting formula."
+  },
+  {
+    "id": 2,
+    "name": "Dior Forever Skin Glow Foundation",
+    "brand": "Dior",
+    "price": 77,
+    "description": "A radiant, 24-hour wear foundation that provides hydration and SPF 15 protection."
+  },
+  {
+    "id": 3,
+    "name": "Lancôme Hypnôse Drama Mascara",
+    "brand": "Lancôme",
+    "price": 39.99,
+    "description": "Now with a waterproof formula for long-lasting wear."
+  },
+  {
+    "id": 4,
+    "name": "Talc-Free Powder Blush",
+    "brand": "NARS",
+    "price": 46,
+    "description": "A silky, buildable blush that enhances cheeks with a natural-looking flush."
+  },
+  {
+    "id": 5,
+    "name": "Naked3 Soft Pink Eyeshadow Palette",
+    "brand": "Urban Decay",
+    "price": 80,
+    "description": "A collection of 12 soft pink and rose-gold shades for creating versatile eye looks."
+  },
+  {
+    "id": 7,
+    "name": "Huda Beauty Desert Dusk Eyeshadow Palette",
+    "brand": "Huda Beauty",
+    "price": 85,
+    "description": "A luxurious eyeshadow palette with 18 stunning shades."
+  }
+]
